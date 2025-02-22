@@ -99,7 +99,7 @@ Result Page:
 View your score and attempt history at the end of the quiz.
 
 Folder Structure
-Copy
+
 src/
 ├── components/
 │   ├── Quiz.jsx
